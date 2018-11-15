@@ -18,16 +18,22 @@ $ touch getTopStreets.swift
 
 # Cuerpo del archivo
 
-El archivo debe tener como cabecera
+El archivo debe contener este formato:
 
+```
 /*
 *  @Description: Pequeña descripción de la funcionalidad
 *  
 *  @Language: Swift
 */
 
-//definición de las constantes
+//@constants
+// .. mis constantes
 
-//definicion de la función
+//@function
+// .. mi definición 
 
-ejecución con un print según el lenguaje
+//@execute
+// .. cómo lo ejecuto, sea con un print y un comentario de la salida
+
+```
